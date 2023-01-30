@@ -22,7 +22,7 @@ import VFSNavbar from '@/components/Navbar.vue'
 <style>
 
     header {
-        background: #D10034;
+        background: #132b46;
         flex-direction: column;
         align-items: center;
         justify-content: space-between;
