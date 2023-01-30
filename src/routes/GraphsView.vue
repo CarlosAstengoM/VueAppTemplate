@@ -1,3 +1,4 @@
+<!--Copyright (c) Carlos Astengo 2023-->
 <script>
 
 import Graph from '../components/GraphComponent.vue'
